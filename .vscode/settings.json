@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "sql-formatter.uppercase": true,
+    "sql-formatter.linesBetweenQueries": 2
+}

@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "ckolkman.vscode-postgres",
+        "adpyke.vscode-sql-formatter"
+    ]
+}
